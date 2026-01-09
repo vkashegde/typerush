@@ -74,8 +74,4 @@ flutter build apk --release
 flutter build appbundle --release
 ```
 
-### Release Notes
 
-- Android package name / applicationId: `com.stormbitlabs.typerush`
-- Native splash is provided via `flutter_native_splash` with a dark background.
-- Android release builds are signed via `android/key.properties` and `typerush-key.jks` (not checked into version control).
