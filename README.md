@@ -51,7 +51,7 @@ TypeRush is a fast, neon‑styled typing game where random words fall from the t
 
 ### Screenshots
 
-![TypeRush gameplay](screenshots/gameplay.png)
+<img src="screenshots/gameplay.png" alt="TypeRush gameplay" width="300" />
 
 ### Running the Game
 
